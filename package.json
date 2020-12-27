@@ -1,5 +1,6 @@
 {
   "name": "tensorflowjs-real-time-object-detection",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -14,7 +15,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start --watch",
+    "dev": "nodemon src/index.js",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"

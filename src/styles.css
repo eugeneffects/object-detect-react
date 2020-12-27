@@ -3,3 +3,8 @@
   top: 0;
   left: 0;
 }
+
+.intro {
+  position: relative;
+  top: 500px;
+}
