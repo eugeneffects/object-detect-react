@@ -110,15 +110,6 @@ class App extends React.Component {
         (서버살 돈이 없어요...)
       </p>
       <br/>
-      <h1>제 프로젝트에서도 이런 기술을 사용할 수 있나요?</h1>
-      <p>
-        물론이죠! 아래 링크에서 확인해보세요.
-        <br/>
-        <a href="https://modeldepot.io/mikeshi/tiny-yolo-in-javascript" target="_blank" rel="noopener noreferrer">
-          ModelDepot!
-        </a>
-      </p>
-      <br/>
       <h1>이거 왜 이렇게 느립니까!?</h1>
       <p>
         실시간 물체탐지 기술은 꽤 어려운 일이고, 
